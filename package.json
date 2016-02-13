@@ -1,6 +1,6 @@
 {
   "name": "achievement",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Event Driven Reward System",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/active9/achievement",
   "dependencies": {
-    "doorbell": "^1.0.1"
+    "doorbell": "^1.0.1",
+    "reward": "^1.0.0"
   }
 }
